@@ -1,0 +1,8 @@
+this is a simple program to test if your onboard anti virus software is
+working properly...follow directions on program and it should
+trip your anti virus software..or in some cases your anti virus software
+will catch it and know its a test...if you do program properly and your
+antivirus software does not catch it..then your antivirus software
+is basically JUNK!...this uses eicar which is the standard test for
+anti virus software..THIS IS NOT A VIRUS!! it is an ascii test string
+that tests software.
